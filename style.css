@@ -1,0 +1,80 @@
+/* ### Footer ### */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-image: url(spiration-light.png);
+    background-repeat: repeat-y repeat-x;
+    margin-bottom: 150px;
+    line-height: 40px;
+    
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 75px;
+    background-color: gray;
+}
+
+.text-color {
+    color: white;
+}
+
+/* ### H1  ### */
+
+h1  {
+    color:#4aaaa5;
+    
+}
+
+/* ### Sidebar ### */
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: white;
+    color: #4aaaa5;
+}
+
+
+.nav li a {
+    height: 75px;
+    line-height:75px;
+    padding-top: 0; 
+    font-size: 15px;
+   
+}
+
+.panel-body {
+    margin-left: 15px;
+
+}
+
+.links {
+    margin: 5px;
+}
+
+
+
+
+.color-me {
+    background-color: #4aaaa5;
+    color: white;
+}
+    
+.bg-custom {
+    background-color: #4aaaa5;
+    width: 100%;
+ 
+    height: 75px;
+    font-size: 40px;
+    line-height: 75px;
+  
+ }
+
+
+

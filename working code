@@ -1,0 +1,18 @@
+<nav class="navbar navbar-default">
+        <div class="container">
+          <div class="row justify-content-md-between"> 
+          <div class="col-xs-12 col-sm-6 col-md-4 text-white">
+              <div class="bg-custom text-center">Nick Keith</div>
+          </div>
+            
+            <div class="col-xs-12 col-sm-6 col-md-5">
+              <ul class="nav justify-content-center">
+                <li><a class="col-xs-4 col-sm-2" href="file:///Users/nickkeith/Desktop/Bootstrap-Portfolio/index.html">About</a></li>
+                <li><a class="col-xs-4 col-sm-2" href="file:///Users/nickkeith/Desktop/Bootstrap-Portfolio/portfolio.html">Portfolio</a></li>
+                <li><a class="col-xs-4 col-sm-2" href="file:///Users/nickkeith/Desktop/Bootstrap-Portfolio/contact.html">Contact</a></li>
+               </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
